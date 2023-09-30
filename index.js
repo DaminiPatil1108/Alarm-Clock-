@@ -1,3 +1,4 @@
+// File of javascript
 const currentTime = document.querySelector("#current-time");
 const setHours = document.querySelector("#hours");
 const setMinutes = document.querySelector("#minutes");
